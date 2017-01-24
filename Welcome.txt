@@ -1,11 +1,5 @@
-<<<<<<< HEAD
-Println("Welcome!")
-Println("How do you do!")
-Println("Hcello")
-Println("Hello my dear friend!")
-Println("Glad to see you")
-=======
 Println("Welcome;")
 Println("How do you do;")
 Println("Hello;")
->>>>>>> master
+Println("Hello my dear friend;")
+Println("Glad to see you;")
