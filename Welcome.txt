@@ -1,3 +1,4 @@
 Println("Welcome!")
 Println("How do you do!")
-Println("Hello")
+Println("Hcello")
+Println("Hello my dear friend!")
